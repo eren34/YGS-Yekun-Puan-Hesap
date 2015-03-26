@@ -23,4 +23,4 @@ Database özelliği sayesinde yüzbinlerce kayıt yapabilir istediğiniz zaman b
 
 Çalştırılabilir halini indirmek için aşağıdaki linke tıklayın
 
-https://yadi.sk/d/JTcA0ir-fXC5G
+https://yadi.sk/d/OC7nxJe-fXCBE
