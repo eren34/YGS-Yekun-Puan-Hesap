@@ -19,5 +19,8 @@ Böylece hangi yönde eğiliminizin olduğunu daha net görebilirsiniz.
 Excel çıktı alarak sonuçları daha net görebiliriniz.
 Database özelliği sayesinde yüzbinlerce kayıt yapabilir istediğiniz zaman bu kayıtlara ulaşabiliriniz.
 
-çalştırılabilir halini indirmek için aşağıdaki linke gidin
+
+
+Çalştırılabilir halini indirmek için aşağıdaki linke tıklayın
+
 https://yadi.sk/d/JTcA0ir-fXC5G
