@@ -1,0 +1,10 @@
+c:\users\reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\Öğrenci Takip.csprojResolveAssemblyReference.cache
+c:\users\reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\Öğrenci_Takip.Form1.resources
+c:\users\reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\Öğrenci_Takip.Properties.Resources.resources
+c:\users\reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\Öğrenci Takip.csproj.GenerateResource.Cache
+C:\Users\Reis\Documents\Visual Studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\Öğrenci_Takip.Form2.resources
+C:\Users\Reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\Öğrenci Takip.csproj.ResolveComReference.cache
+C:\Users\Reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\bin\Debug\YGS Yekun puan hesap.exe
+C:\Users\Reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\bin\Debug\YGS Yekun puan hesap.pdb
+C:\Users\Reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\YGS Yekun puan hesap.exe
+C:\Users\Reis\documents\visual studio 2013\Projects\Öğrenci Takip\Öğrenci Takip\obj\Debug\YGS Yekun puan hesap.pdb
